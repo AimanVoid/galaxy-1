@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { FaBoxOpen, FaShippingFast, FaHandshake, FaEnvelope, FaPhone, FaWhatsapp } from "react-icons/fa";
 import './App.css';
 
-const WHATSAPP_NUMBER = "1234567"; 
+const WHATSAPP_NUMBER = "03703148097"; 
 
 // ---------- useTypewriter Hook ----------
 function useTypewriter(words, speed = 120, pause = 1200) {
